@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+PySastrawi
+rank_bm25
+scikit-learn
+scipy
+matplotlib
+streamlit
+jupyter
