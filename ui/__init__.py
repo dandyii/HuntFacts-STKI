@@ -1,0 +1,1 @@
+"""Komponen tampilan HuntFacts."""
